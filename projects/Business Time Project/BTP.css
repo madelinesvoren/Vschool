@@ -1,0 +1,72 @@
+.title {
+    text-align: center;
+    margin-left: 40%;
+    margin-top: 0pt;
+    }
+    #p{
+        margin-top: 20%;
+    }
+     #menu {
+       
+       margin-left: 10%;
+    }
+    .red{
+        color: khaki;
+        padding: 8%;
+    }
+    .white{
+        padding: 8%;
+       color: khaki;
+    }
+    .country{
+        padding: 8%;
+        color: khaki;
+    }
+    .sales{
+        padding: 8%;
+        color: khaki;
+    }
+    p{
+        padding-left: 15%;
+    }
+    #aboutUs{
+        display: inline-block;
+        color: peru;
+        font-size: 30;
+        border:peru;
+        border-style: solid;
+        padding: 5px;
+        margin-left: 5%;
+        margin-top: 10%;
+    }
+    #localDistributors{
+        display: inline-block;
+        color: peru;
+        font-size: 30;
+        border:peru;
+        border-style: solid;
+        padding: 5px;
+        margin-left: 25%;
+    }
+    #ourMission{
+        display: inline-block;
+        color: peru;
+        font-size: 30;
+        border:peru;
+        border-style: solid;
+        padding: 5px;
+        margin-left: 20%;
+        margin-right: 5%;
+    }
+    .distributors{
+        text-decoration: none;
+        color: white;
+    }
+    @media (max-width: 480px){
+        img{
+            max-width: 20%;
+            height: auto;
+        }
+        
+    
+    }

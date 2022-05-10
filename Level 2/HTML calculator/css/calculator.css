@@ -1,0 +1,28 @@
+body{
+    background-color: chartreuse;
+}
+
+.addition{
+    margin: auto;
+    width: 50%;
+}
+#input[type=number]{
+    margin: auto;
+    width: 50%;
+    color:crimson;
+}
+
+.subtraction{
+    margin: auto;
+    width: 50%;
+}
+
+.multiplication{
+    margin: auto;
+    width: 50%;    
+}
+input[type=submit]{
+    width: 100%;
+    align-self: auto;
+    color: crimson;
+}
