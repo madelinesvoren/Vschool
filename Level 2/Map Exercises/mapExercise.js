@@ -22,7 +22,7 @@ const result2 = result.map(function stringItUp(item){
 
 const namesArr = ["john", "JACOB", "jinGleHeimer", "schmidt"]
 
-namesArr = namesArr.map((str, [1]) => ({john: str, id: [1] + 1}))
+//namesArr = namesArr.map((str, [1]) => ({john: str, id: [1] + 1}))
 
 const capNames = splitName1.map(function capital(name){
     return splitName1.toUpperCase
