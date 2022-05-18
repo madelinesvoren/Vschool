@@ -1,7 +1,7 @@
 
 var user = {username: "sam", password: "123abc"};
 function login(username, password){
-  if(!username === "sam", !password === "123abc") throw "username or login incorrect"
+  if(username !== "sam", password !== "123abc") throw "username or login incorrect"
   else{
       console.log("login successful")
   }
