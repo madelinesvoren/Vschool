@@ -11,6 +11,7 @@
     height: 200px;
     border: .5in dotted purple;
     background-color: yellow;
+    transition-duration: 1s;
 }
 #box1:hover{
     width: 400px;
@@ -26,6 +27,7 @@
     border-radius: 20px;
     border-width: .5in;
     background-color: lightcoral;
+    transition-duration: 2s;
 }
 #box2:hover{
     width: 250px;
@@ -40,6 +42,7 @@
     border-style: solid;
     border-color: greenyellow;
     border-width: 15px;
+    transition-duration: 3s;
 }
 #box3:hover{
     width: 300px;
@@ -52,6 +55,7 @@
     height: 250px;
     border: 4in inherit darkblue;
     background-color: cornflowerblue;
+    transition-duration: 3s;
 }
 #box4:hover{
     opacity: 0%;
@@ -63,6 +67,7 @@
     border: 1in double gray;
     background-color: maroon;
     opacity: 40%;
+    transition-duration: 2s;
 }
 #box5:hover{
     width: 150px;
@@ -77,9 +82,12 @@
     border: 10px dashed orange;
     background-color: red;
     margin-top: 30px;
+    transition-duration: 1s;
 }
 #box6:hover{
-    width: max-content;
-    height: max-content;
+    width: 100px;
+    height: 100px;
     position: relative;
+    background-color: orange;
+    border: 10px dashed yellow;
 }
