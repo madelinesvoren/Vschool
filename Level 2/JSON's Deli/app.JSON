@@ -1,0 +1,95 @@
+{
+    "JSON's Deli Menu": [
+        {
+            "Appetizers": [
+                {
+                    "App 1": "Mozzarella Sticks",
+                    "Ingredients": ["Mozzarella Cheese", "Beer Batter", "House Dip"],
+                    "Description": "Deep fried mozzarella cheese with a side of our secret signature home-made sauce"
+                },
+
+                {
+                    "App 2": "Southwest Egg Rolls",
+                    "Ingredients": ["Boneless Chicken Breast", "Jalepenos"," Corn", "Onions", "Black Beans", "Cilantro", "Shredded Pepper-jack Cheese"],
+                    "Description": "A colorful combination of golden corn, black beans, jalapeños, shredded cheese and tender bites of chicken with a sweet and spicy southwest seasoning all wrapped up in an egg roll wrapper."
+                },
+
+                {
+                    "App 3": "Spin Dip",
+                    "Ingredients": ["Cream Cheese", "Sour Cream", "Spinach", "Garlic", "Parmesan", "Mozzarella"],
+                    "Description": "Served with baked pita bread."
+                }
+            ]
+        },
+
+        {
+            "Cold Sandwiches": [
+                {
+                    "Sandwich 1": "Classic Sub",
+                    "Ingredients": ["Ham", "Turkey", "Lettuce", "Tomato", "Your choice of cheese", "Onions", "Pickles", "Mayo", "Mustard"],
+                    "Description": "Fresh ingredients on bread of your choice; 6 inch or foot long. Ask us to make it spicey and we will add jalepenos and hot sauce!"
+                },
+
+                {
+                    "Sandwich 2": "The Veggie",
+                    "Ingredients": ["Spinach", "Banana Peppers", "Red Onions", "Bell Peppers", "Olives", "Veggie Spread: (Hummus or Guacamole)", "Cheese"],
+                    "Description": "Trying to be healthy? Try our veggie sandwich on flatbread or make it a wrap! It can also be made vegan by bypassing the cheese!"
+                }
+            ]
+        },
+
+        {
+            "Hot Sandwiches": [
+                {
+                    "Sandwich 1": "The Italian",
+                    "Ingredients": ["Italian Sausage", "Salami", "Olives", "Roasted Red Peppers", "Swiss Cheese"],
+                    "Description": "Never visited Italy? Try our authentic Italian sub and dine internationally for lunch!"
+                },
+
+                {
+                    "Sandwich 2": "Meat Lovers",
+                    "Ingredients": ["Ham", "Turkey", "Sausage", "Bacon", "Veggies", "Double Cheese"],
+                    "Description": "If you want to take a few years off your life try this"
+                }
+            ]
+        },
+
+        {
+            "Desserts": [
+                {
+                    "Dessert 1": "Ice Cream Sunday",
+                    "Ingredients": ["Ice Cream", "Hot Fudge", "Banana", "Sprinkles"],
+                    "Description": "The classic American dessert served with your choice of chocolate, vanilla, or metropolitan ice cream."
+                },
+
+                {
+                    "Dessert 2": "Seasonal Cheesecake",
+                    "Ingredients": ["Cream Cheese", "Flavoring", "Drizzle"],
+                    "Description": "Our cheesecake flavors change every week with a variety of fresh fruits like strawberries, blueberries, and blackberries. We always have chocolate cheesecake."
+                }
+            ]
+        },
+
+        {
+            "Drinks": [
+                {
+                    "Drink 1": "Beer",
+                    "Ingredients": ["Hops", "Your mom's chest hair", "Chuck Norris' sweat"],
+                    "Description": "We have 30 beers on tap. Ask your server for details."
+                },
+
+                {
+                    "Drink 2": "Wine",
+                    "Ingredients": ["Grapes", "Sugar", "Unicorns", "Rainbows"],
+                    "Description": "We are wine snobs here and will judge you if you drink white wine holding the glass instead of the stem."
+                },
+
+                {
+                    "Drink 3": "Non-Alcohol",
+                    "Ingredients": ["Coke", "Dr. Pepper", "Lemonade", "Sweet Tea"],
+                    "Description": "If you don't want a real drink, we have coke products."
+                }
+            ]
+        }
+    ]
+}

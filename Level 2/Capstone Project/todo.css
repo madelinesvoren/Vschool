@@ -1,0 +1,28 @@
+body{
+    background-color: darkblue;
+}
+header{
+    text-align: center;
+
+}
+#title{
+    background-color: darkorchid;
+}
+#descriptions{
+    background-color: darkturquoise;
+}
+#images{
+    background-color: deeppink;
+}
+#price{
+    background-color: greenyellow;
+}
+h1{
+    background-color: hotpink;
+    font-style: italic;
+    color:maroon
+}
+h2{
+    color:plum;
+    font-style: oblique ;
+}
